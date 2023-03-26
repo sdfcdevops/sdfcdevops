@@ -1,10 +1,11 @@
+<p align="center"> <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="200" /></p>
 <h1 align="center">Hi 👋, I'm Tarun Gupta</h1>
 <h3 align="left">A passionate Full Stack & Salesforce developer from India </p>
  </h3>
 <p align="left"> <a href="https://twitter.com/tarungupta051" target="blank"><img src="https://img.shields.io/twitter/follow/tarungupta051?logo=twitter&style=for-the-badge" alt="tarungupta051" /></a> 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdfcdevops&label=Profile%20views&color=0e75b6&style=flat" alt="sdfcdevops" /> </p>
 
-<p align="right"> <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="200" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tarungupta051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarungupta051" height="30" width="40" /></a>
