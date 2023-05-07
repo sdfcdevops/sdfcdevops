@@ -5,6 +5,17 @@
 <p align="left"> <a href="https://twitter.com/tarungupta051" target="blank"><img src="https://img.shields.io/twitter/follow/tarungupta051?logo=twitter&style=for-the-badge" alt="tarungupta051" /></a> 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdfcdevops&label=Profile%20views&color=0e75b6&style=flat" alt="sdfcdevops" /> </p>
 
+### Hi there 👋,
+
+<br>
+<p align="left">
+ <a href="https://www.linkedin.com/in/thetarungupta" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=LINKEDIN&color=493252&style=for-the-badge&logo=linkedin"/></a> 
+<a href="https://twitter.com/tarungupta051" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=TWITTER&color=493252&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
